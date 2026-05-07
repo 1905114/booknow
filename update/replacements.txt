@@ -1,0 +1,735 @@
+"            <div \n              className=\"flex flex-col mx-auto items-center\"\n              style={{ width: '768px', maxWidth: '768px', gap: '48px' }}\n            >\n              <div \n                className=\"flex flex-col items-center\"\n    
+<truncated 3563 bytes>
+
+---NEXT---
+
+"          ) : (\n            <div \n              className=\"flex flex-col mx-auto items-center\"\n              style={{ width: '1312px', gap: '40px' }}\n            >\n              <div \n                className=\"flex flex-col items-center\"\n     
+<truncated 6487 bytes>
+
+---NEXT---
+
+"            <div \n              className=\"flex gap-[24px]\"\n              style={{ width: '100%', height: '152px' }}\n            >\n              {(service.gallery || [service.imageSrc, service.imageSrc, service.imageSrc]).map((img, i) => (\n        
+<truncated 406 bytes>
+
+---NEXT---
+
+"                ) : null}"
+
+---NEXT---
+
+"              </p>\n            )}\n            {/* Price and Booking Section */}"
+
+---NEXT---
+
+"            )}"
+
+---NEXT---
+
+"        </div>\n      </section>"
+
+---NEXT---
+
+"      {/* Testimonials Section */}\n      <section \n        className=\"w-full max-w-[1440px] mx-auto min-h-[666px] bg-white\"\n        style={{ padding: '96px 64px' }}\n      >\n        <div \n          className=\"flex flex-col mx-auto items-center\"\n
+<truncated 6112 bytes>
+
+---NEXT---
+
+"      {/* Testimonials Section */}\n      <section \n        className=\"w-full max-w-[1440px] mx-auto min-h-[666px] bg-white\"\n        style={{ padding: '96px 64px' }}\n      >\n        <div \n          className=\"flex flex-col mx-auto items-center\"\n
+<truncated 6112 bytes>
+
+---NEXT---
+
+"        </div>\n      )}\n      </section>"
+
+---NEXT---
+
+"      {/* Testimonials Section */}\n      <section \n        className=\"w-full max-w-[1440px] mx-auto min-h-[666px] bg-white\"\n        style={{ padding: '96px 64px' }}\n      >\n"
+
+---NEXT---
+
+"          </div>\n        </div>\n      </section>"
+
+---NEXT---
+
+"          </div>\n        </div>\n"
+
+---NEXT---
+
+"          </div>\n        </div>\n"
+
+---NEXT---
+
+""
+
+---NEXT---
+
+"        </div>\n      </section>"
+
+---NEXT---
+
+"          </div>\n      </section>\n    </main>\n  );\n"
+
+---NEXT---
+
+"style={{ width: '552px', height: '72px', opacity: 1, fontFamily: 'Outfit', fontWeight: 700, fontSize: '18px', lineHeight: '24px', letterSpacing: '0px', verticalAlign: 'middle', background: '#4E4633' }}"
+
+---NEXT---
+
+"<div className=\"flex items-center justify-center\" style={{ width: '552px', height: '72px', opacity: 1, fontFamily: 'Outfit', fontWeight: 700, fontStyle: 'Bold', fontSize: '18px', lineHeight: '24px', letterSpacing: '0px', verticalAlign: 'middle', backgro
+<truncated 145 bytes>
+
+---NEXT---
+
+"{service.slug === 'meditation-program' && (\n  <div style={{ width: '552px', height: '72px', opacity: 1, fontFamily: 'Outfit', fontWeight: 700, fontStyle: 'Bold', fontSize: '18px', lineHeight: '24px', letterSpacing: '0px', verticalAlign: 'middle', backgro
+<truncated 595 bytes>
+
+---NEXT---
+
+"<Button \n  className=\"text-black font-black hover:scale-105 active:scale-95 transition-all shadow-lg shadow-yellow-200/50 flex items-center justify-center\"\n  style={{ width: '163.13px', height: '60px', padding: '16px 40px', borderRadius: '9999px', bac
+<truncated 908 bytes>
+
+---NEXT---
+
+""
+
+---NEXT---
+
+"<div className=\"flex items-center justify-center rounded-full bg-[#745B00]/[0.05]\" style={{ width: '113.88px', height: '20px', padding: '2px 8px' }}>\n  <span className=\"font-outfit font-bold uppercase text-[#745B00] text-center\" style={{ width: '97.8
+<truncated 125 bytes>
+
+---NEXT---
+
+""
+
+---NEXT---
+
+""
+
+---NEXT---
+
+"<div className=\"flex items-center justify-center rounded-full bg-[#745B00]/[0.05]\" style={{ width: '113.88px', height: '20px', padding: '2px 8px' }}>\n  <span className=\"font-outfit font-bold uppercase text-[#745B00] text-center\" style={{ width: '97.8
+<truncated 125 bytes>
+
+---NEXT---
+
+
+
+---NEXT---
+
+""
+
+---NEXT---
+
+"                 <Button \n                   className=\"text-black font-black hover:scale-105 active:scale-95 transition-all shadow-lg shadow-yellow-200/50 flex items-center justify-center\"\n                   style={{ width: '163.13px', height: '60px'
+<truncated 621 bytes>
+
+---NEXT---
+
+"                <div className=\"flex items-center\" style={{ width: '301.01px', height: '60px', gap: '24px' }}>\n                  <Button \n                    className=\"text-black font-black hover:scale-105 active:scale-95 transition-all shadow-lg sh
+<truncated 815 bytes>
+
+---NEXT---
+
+"            <div className=\"flex items-center justify-center rounded-full bg-[#745B00]/[0.05]\" style={{ width: '113.88px', height: '20px', padding: '2px 8px' }}>\n              <span className=\"font-outfit font-bold uppercase text-[#745B00] text-center
+<truncated 151 bytes>
+
+---NEXT---
+
+"                    <div className=\"flex items-center justify-center rounded-full bg-[#745B00]/[0.05]\" style={{ width: '113.88px', height: '20px', padding: '2px 8px' }}>\n                      <span className=\"font-outfit font-bold uppercase text-[#745
+<truncated 175 bytes>
+
+---NEXT---
+
+"{service.slug !== 'meditation-program' && (\n<div className=\"flex items-center justify-center rounded-full bg-[#745B00]/[0.05]\" style={{ width: '113.88px', height: '20px', padding: '2px 8px' }}>\n<span className=\"font-outfit font-bold uppercase text-[#
+<truncated 162 bytes>
+
+---NEXT---
+
+""
+
+---NEXT---
+
+""
+
+---NEXT---
+
+"            <div className=\"flex justify-center mt-16\">\n              <Button \n"
+
+---NEXT---
+
+"                  <div \n                    className=\"absolute font-outfit font-medium text-[#4E4633] overflow-hidden\"\n                    style={{ top: '113px', left: '33px', width: '349.66px', height: '72px', fontSize: '16px', lineHeight: '24px', l
+<truncated 100 bytes>
+
+---NEXT---
+
+"                <div className=\"flex items-center\" style={{ width: 'auto', minHeight: '60px', gap: '24px' }}>\n                  <Button \n                    className=\"text-black font-black hover:scale-105 active:scale-95 transition-all shadow-lg sha
+<truncated 1524 bytes>
+
+---NEXT---
+
+""
+
+---NEXT---
+
+"                </div>\n              </div>\n            </div>"
+
+---NEXT---
+
+"\n  const { slug } = params;\n  const service = await getServiceBySlug(slug);\n\n  if (!service) {\n    return (\n      <main className=\"flex items-center justify-center min-h-screen\">\n        <div className=\"text-center\">\n          <h1 className=\"
+<truncated 203 bytes>
+
+---NEXT---
+
+""
+
+---NEXT---
+
+"          </div>\n      </section>\n"
+
+---NEXT---
+
+"                  <div className=\"flex items-center justify-center rounded-full bg-[#745B00]/[0.05]\" style={{ width: '113.88px', height: '20px', padding: '2px 8px' }}>\n                    <span className=\"font-outfit font-bold uppercase text-[#745B00]
+<truncated 169 bytes>
+
+---NEXT---
+
+"            )}\n"
+
+---NEXT---
+
+"              </>\n            )}\n          </div>\n        </div>\n      </section>\n"
+
+---NEXT---
+
+"          </div>\n      </section>\n"
+
+---NEXT---
+
+"          </div>\n      </section>\n"
+
+---NEXT---
+
+"            )}\n          </div>\n      </section>\n"
+
+---NEXT---
+
+"            {service.receivePoints && service.receivePoints.length > 0 && (\n              <ul className=\"flex flex-col mb-12\" style={{ gap: '12px', width: '552px' }}>\n                {service.receivePoints.map((item, i) => (\n                  <li key
+<truncated 1111 bytes>
+
+---NEXT---
+
+"            {service.receivePoints && service.receivePoints.length > 0 && (\n              <ul className=\"flex flex-col mb-12\" style={{ gap: '12px', width: '552px' }}>\n                {service.receivePoints.map((item, i) => (\n                  <li key
+<truncated 1145 bytes>
+
+---NEXT---
+
+"                </div>\n              </div>\n\n            {service.receivePoints && service.receivePoints.length > 0 && (\n              <ul className=\"flex flex-col mb-12\" style={{ gap: '12px', width: '552px' }}>\n                {service.receivePoin
+<truncated 1193 bytes>
+
+---NEXT---
+
+"                </div>\n              </div>\n            </div>\n"
+
+---NEXT---
+
+"            {service.receivePoints && service.receivePoints.length > 0 && (\n              <ul className=\"flex flex-col mb-12\" style={{ gap: '12px', width: '552px' }}>\n                {(service.slug === 'auto-writing-program' ? [\n                  \"C
+<truncated 989 bytes>
+
+---NEXT---
+
+"            {service.fullDescription && (\n              <h3 className=\"font-outfit font-normal text-[#333333] mb-6\" style={{ width: '552px', height: '26px', fontSize: '18px', lineHeight: '26px', letterSpacing: '0px' }}>\n                {service.fullDe
+<truncated 50 bytes>
+
+---NEXT---
+
+"            {service.fullDescription && (\n              <h3 className=\"font-outfit font-normal text-[#333333] mb-6\" style={{ width: '552px', height: '26px', fontSize: '18px', lineHeight: '26px', letterSpacing: '0px' }}>\n                {service.fullDe
+<truncated 1295 bytes>
+
+---NEXT---
+
+"                ))}\n              </ul>\n            )}\n\n            <p className=\"font-outfit font-bold text-[#333333] mb-12\" style={{ width: '552px', fontSize: '16px', lineHeight: '26px' }}>\n              {service.title} is a simple yet powerful w
+<truncated 153 bytes>
+
+---NEXT---
+
+"            {service.receivePoints && service.receivePoints.length > 0 && (\n              <ul \n                className=\"flex flex-col mb-12\" \n                style={{ width: '552px', height: '96px', gap: '12px' }}\n              >\n                
+<truncated 1445 bytes>
+
+---NEXT---
+
+"            {service.slug !== 'auto-writing-program' && service.fullDescription && (\n              <h3 className=\"font-outfit font-normal text-[#333333] mb-6\" style={{ width: '552px', height: '26px', fontSize: '18px', lineHeight: '26px', letterSpacing:
+<truncated 93 bytes>
+
+---NEXT---
+
+"            {service.slug !== 'auto-writing-program' && (\n              <p className=\"font-outfit font-bold text-[#333333] mb-12\" style={{ width: '552px', fontSize: '16px', lineHeight: '26px' }}>\n                {service.title} is a simple yet powerfu
+<truncated 174 bytes>
+
+---NEXT---
+
+"            {service.slug === 'auto-writing-program' ? (\n              <ul \n                className=\"flex flex-col mb-12\" \n                style={{ width: '552px', height: '96px', gap: '12px' }}\n              >\n                {[\n               
+<truncated 2095 bytes>
+
+---NEXT---
+
+"                ))}\n              </ul>\n\n              <div \n                className=\"font-outfit font-bold text-[#333333] flex flex-col mb-12\"\n                style={{ width: '552px', height: '312px', maxWidth: '576px', fontSize: '16px', lineHei
+<truncated 1118 bytes>
+
+---NEXT---
+
+"            {service.slug === 'auto-writing-program' ? (\n              <>\n                <ul \n                  className=\"flex flex-col mb-12\" \n                  style={{ width: '552px', height: '96px', gap: '12px' }}\n                >\n         
+<truncated 2489 bytes>
+
+---NEXT---
+
+"            {service.slug === 'one-on-one-session' ? (\n              <div \n                className=\"font-outfit font-bold text-[#333333] flex flex-col mb-12\"\n                style={{ width: '552px', height: '312px', maxWidth: '576px', fontSize: '16
+<truncated 1540 bytes>
+
+---NEXT---
+
+"            {service.slug !== 'auto-writing-program' && service.fullDescription && (\n              <h3 className=\"font-outfit font-normal text-[#333333] mb-6\" style={{ width: '552px', height: '26px', fontSize: '18px', lineHeight: '26px', letterSpacing:
+<truncated 153 bytes>
+
+---NEXT---
+
+"            {service.slug !== 'auto-writing-program' && (\n              <>\n                {service.fullDescription && (\n                  <h3 className=\"font-outfit font-normal text-[#333333] mb-6\" style={{ width: '552px', height: '26px', fontSize: 
+<truncated 1236 bytes>
+
+---NEXT---
+
+"              </>\n            ) : (\n              <>\n                {service.slug !== 'auto-writing-program' && service.fullDescription && (\n"
+
+---NEXT---
+
+"                {service.slug === 'one-on-one-session' && (\n                  <h3 className=\"font-outfit font-bold text-[#333333] mb-4\" style={{ width: '552px', height: '26px', fontSize: '18px', lineHeight: '26px', letterSpacing: '0px' }}>\n           
+<truncated 157 bytes>
+
+---NEXT---
+
+""
+
+---NEXT---
+
+"                {service.slug !== 'auto-writing-program' && service.slug !== 'meditation-program' && service.fullDescription && (\n                  <h3 className=\"font-outfit font-normal text-[#333333] mb-6\" style={{ width: '552px', height: '26px', fon
+<truncated 154 bytes>
+
+---NEXT---
+
+"            {service.slug !== 'auto-writing-program' && (\n              <div \n                className=\"font-outfit font-bold text-[#333333] flex flex-col mb-12\"\n                style={{ width: '552px', height: '312px', maxWidth: '576px', fontSize: 
+<truncated 1180 bytes>
+
+---NEXT---
+
+"                {service.slug === 'meditation-program' && (\n                  <div \n                    className=\"font-outfit font-bold text-[#4E4633] mb-8\"\n                    style={{ width: '552px', height: '72px', display: 'flex', flexDirection:
+<truncated 470 bytes>
+
+---NEXT---
+
+"                {service.receivePoints && service.receivePoints.length > 0 && (\n                  <ul \n                    className=\"flex flex-col mb-12\" \n                    style={{ \n                      width: '552px', \n                      g
+<truncated 1335 bytes>
+
+---NEXT---
+
+"            <div \n              className=\"relative w-full overflow-hidden shadow-2xl shrink-0\"\n              style={{ height: '552px', borderRadius: '31px' }}\n            >\n              <Image\n                src={(service.gallery && service.gall
+<truncated 889 bytes>
+
+---NEXT---
+
+"            <div \n              className=\"relative w-full overflow-hidden shadow-2xl shrink-0\"\n              style={{ height: '552px', borderRadius: '31px' }}\n            >\n              <Image\n                src={service.slug === 'auto-writing-p
+<truncated 1356 bytes>
+
+---NEXT---
+
+"              <Image\n                src={\n                  service.slug === 'one-on-one-session' ? service.imageSrc :\n                  service.slug === 'auto-writing-program' \n                    ? (service.gallery && service.gallery[2]) || service
+<truncated 1347 bytes>
+
+---NEXT---
+
+"              <Image\n                src={\n                  (service.slug === 'one-on-one-session' || service.slug === 'auto-writing-program') ? service.imageSrc :\n                  (service.gallery && service.gallery[1]) || service.imageSrc\n        
+<truncated 1138 bytes>
+
+---NEXT---
+
+"            {service.slug !== 'auto-writing-program' && (\n              <>\n                {service.slug !== 'one-on-one-session' && service.slug !== 'meditation-program' && service.fullDescription && (\n                  <h3 className=\"font-outfit fon
+<truncated 4741 bytes>
+
+---NEXT---
+
+"              </>\n            ) : (\n              <>\n"
+
+---NEXT---
+
+"                {service.receivePoints && service.receivePoints.length > 0 && (\n                  <ul \n                    className=\"flex flex-col mb-12\" \n                    style={{ \n                      width: '552px', \n                      g
+<truncated 1225 bytes>
+
+---NEXT---
+
+"            {service.slug !== 'auto-writing-program' && (\n              <div \n                className=\"font-outfit font-bold text-[#333333] flex flex-col mb-12\"\n                style={{ width: '552px', height: '312px', maxWidth: '576px', fontSize: 
+<truncated 1128 bytes>
+
+---NEXT---
+
+"                {service.slug !== 'one-on-one-session' && service.slug !== 'meditation-program' && service.fullDescription && (\n                  <h3 className=\"font-outfit font-normal text-[#333333] mb-6\" style={{ width: '552px', height: '26px', fontS
+<truncated 2674 bytes>
+
+---NEXT---
+
+"            >\n              <Image\n                src={\n"
+
+---NEXT---
+
+"              <Image\n                src={service.imageSrc}\n                alt={service.title}\n                fill\n                className=\"object-cover\"\n                priority\n              />\n            </div>\n            <div \n       
+<truncated 637 bytes>
+
+---NEXT---
+
+"              <Image\n                src={\n                  service.slug === 'one-on-one-session' ? (service.gallery && service.gallery[1]) || service.imageSrc :\n                  service.slug === 'auto-writing-program' ? (service.gallery && service.g
+<truncated 1277 bytes>
+
+---NEXT---
+
+"              <Image\n                src={\n                  service.slug === 'auto-writing-program' ? (service.gallery && service.gallery[2]) || service.imageSrc :\n                  service.imageSrc\n                }\n                alt={service.tit
+<truncated 1078 bytes>
+
+---NEXT---
+
+"              <Image\n                src={service.imageSrc}\n                alt={service.title}\n                fill\n                className=\"object-cover\"\n                priority\n              />\n            </div>\n            <div \n       
+<truncated 637 bytes>
+
+---NEXT---
+
+"            {/* Price and Booking Section */}\n            {service.slug !== 'business-energy-alignment' && (\n              <div \n                className=\"flex flex-col\"\n                style={{ width: '313.01px', height: '110px', gap: '12px', marg
+<truncated 986 bytes>
+
+---NEXT---
+
+"                <div className=\"flex items-center\" style={{ width: 'auto', minHeight: '60px', gap: '24px' }}>\n                  <Button \n                    className=\"text-black font-black hover:scale-105 active:scale-95 transition-all shadow-lg sha
+<truncated 827 bytes>
+
+---NEXT---
+
+"                {service.slug !== 'business-energy-alignment' && (\n                  <div className=\"flex items-center\" style={{ width: 'auto', minHeight: '60px', gap: '24px' }}>\n                    <Button \n                      className=\"text-bla
+<truncated 879 bytes>
+
+---NEXT---
+
+"              <div className=\"flex flex-col gap-8 font-outfit\">\n                <div \n                  className=\"rounded-2xl p-8 flex flex-col justify-center\"\n                  style={{ \n                    width: '552px', \n                    
+<truncated 1492 bytes>
+
+---NEXT---
+
+"                <div \n                  className=\"rounded-2xl p-8 flex flex-col justify-center\"\n                  style={{ \n                    width: '552px', \n                    height: '286px', \n                    maxWidth: '576px', \n       
+<truncated 1466 bytes>
+
+---NEXT---
+
+"                <div \n                  className=\"p-0 flex flex-col\"\n                  style={{ \n                    width: '552px', \n                    minHeight: '286px', \n                    maxWidth: '576px', \n                    opacity: 1,
+<truncated 1382 bytes>
+
+---NEXT---
+
+"                  <p \n                    className=\"font-outfit font-normal text-[#4E4633] mb-4\"\n                    style={{ fontSize: '18px', lineHeight: '26px', letterSpacing: '0px' }}\n                  >\n                    Unlock the Hidden En
+<truncated 59 bytes>
+
+---NEXT---
+
+"            <h1 \n              className=\"font-outfit font-semibold text-[#1C1B1B] mb-6\"\n              style={{ \n                width: '552px', \n                height: service.slug === 'business-energy-alignment' ? '48px' : 'auto',\n              
+<truncated 331 bytes>
+
+---NEXT---
+
+"                <div \n                  className=\"p-0 flex flex-col\"\n                  style={{ \n                    width: '552px', \n                    minHeight: '286px', \n                    maxWidth: '576px', \n                    opacity: 1,
+<truncated 83 bytes>
+
+---NEXT---
+
+"                  <p \n                    className=\"font-outfit font-normal text-[#4E4633]\"\n                    style={{ fontSize: '18px', lineHeight: '26px', letterSpacing: '0px' }}\n                  >\n                    Business Energy Alignment
+<truncated 3266 bytes>
+
+---NEXT---
+
+"                {/* Consulting Fee and Booking Section for Business Energy Alignment */}\n                <div \n                  className=\"flex flex-col\"\n                  style={{ width: '552px', minHeight: '165px', paddingTop: '16px', gap: '24px' 
+<truncated 2650 bytes>
+
+---NEXT---
+
+"                <div \n                  className=\"rounded-2xl p-8 flex flex-col justify-center\"\n                  style={{ \n                    width: '552px', \n                    height: '286px', \n                    backgroundColor: '#333333',\
+<truncated 1506 bytes>
+
+---NEXT---
+
+"                <div \n                  className=\"p-0 flex flex-col justify-center\"\n                  style={{ \n                    width: '552px', \n                    minHeight: '286px', \n                    opacity: 1\n                  }}\n   
+<truncated 1455 bytes>
+
+---NEXT---
+
+"                  <div \n                    className=\"flex items-center gap-3 font-outfit font-bold text-[#1C1B1B] mb-4\"\n                    style={{ fontSize: '18px', lineHeight: '26px', letterSpacing: '0px' }}\n                  >\n                
+<truncated 85 bytes>
+
+---NEXT---
+
+"                    {[\n                      \"Remove hidden negative influences\",\n                      \"Clear stagnant or blocked energy\",\n                      \"Strengthen positive vibration in business space\",\n                      \"Align yo
+<truncated 404 bytes>
+
+---NEXT---
+
+"                      <li key={i} className=\"flex items-center gap-3 font-outfit font-bold text-[#4E4633] text-[18px] leading-[26px]\">\n                        <span className=\"font-bold\">{i + 1}.</span>\n                        <span>{item}</span>\n 
+<truncated 29 bytes>
+
+---NEXT---
+
+"                  <ul className=\"space-y-1 p-0 mb-4\">\n"
+
+---NEXT---
+
+"                  <p className=\"font-outfit font-bold text-[#4E4633] text-[18px] leading-[26px]\">\n                    This process works not only on your office or shop space, but also on:\n                  </p>\n                  \n                  
+<truncated 984 bytes>
+
+---NEXT---
+
+"                    {[\n                      \"Business owner’s energy field\",\n                      \"Decision-making clarity\",\n                      \"Financial flow patterns\",\n                      \"Client attraction energy\"\n               
+<truncated 697 bytes>
+
+---NEXT---
+
+"                      <div \n                        key={i} \n                        className=\"flex items-center gap-3 font-outfit font-medium text-[#000000]\"\n                        style={{ width: '552px', height: '24px', fontSize: '16px', lineHei
+<truncated 266 bytes>
+
+---NEXT---
+
+""
+
+---NEXT---
+
+"                <div \n                  className=\"rounded-2xl p-8 flex flex-col justify-center\"\n                  style={{ \n                    width: '552px', \n                    height: '364px', \n                    backgroundColor: '#333333',\
+<truncated 1518 bytes>
+
+---NEXT---
+
+"                <div \n                  className=\"p-0 flex flex-col justify-center\"\n                  style={{ \n                    width: '552px', \n                    minHeight: '364px', \n                    opacity: 1\n                  }}\n   
+<truncated 1450 bytes>
+
+---NEXT---
+
+"                  </ul>\n                  \n                  <p className=\"font-outfit font-bold text-[#4E4633] text-[18px] leading-[26px] mt-6\">\n                    This process works not only on your office or shop space, but also on:\n            
+<truncated 37 bytes>
+
+---NEXT---
+
+"                      <li key={i} className=\"flex items-start gap-3 font-outfit font-bold text-[#4E4633] text-[18px] leading-[26px]\">\n                        <span className=\"font-bold\">{i + 1}.</span>\n                        <span>{item}</span>\n  
+<truncated 344 bytes>
+
+---NEXT---
+
+"                <div \n                  className=\"flex flex-col py-8\"\n                  style={{ width: '552px', minHeight: '598px' }}\n                >\n                  <div className=\"flex items-center gap-3 font-outfit font-bold text-[#1C1B1B]
+<truncated 1849 bytes>
+
+---NEXT---
+
+"                <div \n                  className=\"flex flex-col py-8\"\n                  style={{ width: '552px', minHeight: '598px', marginTop: '-24px' }}\n                >\n"
+
+---NEXT---
+
+"                <div \n                  className=\"flex flex-col py-8\"\n                  style={{ width: '552px', minHeight: '208px', marginTop: '-24px' }}\n                >\n                  <div className=\"flex items-center gap-3 font-outfit font
+<truncated 1051 bytes>
+
+---NEXT---
+
+"                <div \n                  className=\"flex flex-col py-8\"\n                  style={{ width: '552px', minHeight: '208px', marginTop: '-48px' }}\n                >\n"
+
+---NEXT---
+
+"                <div \n                  className=\"flex flex-col py-8\"\n                  style={{ width: '552px', minHeight: '182px', marginTop: '-24px' }}\n                >\n                  <div className=\"flex items-center gap-3 font-outfit font
+<truncated 929 bytes>
+
+---NEXT---
+
+"                <div \n                  className=\"flex flex-col py-8\"\n                  style={{ width: '552px', minHeight: '182px', marginTop: '-48px' }}\n                >\n                  <div className=\"flex items-center gap-3 font-outfit font
+<truncated 162 bytes>
+
+---NEXT---
+
+"                <div \n                  className=\"flex flex-col py-8\"\n                  style={{ width: '552px', minHeight: '182px', marginTop: '-48px' }}\n                >\n                  <div className=\"flex items-center gap-3 font-outfit font
+<truncated 855 bytes>
+
+---NEXT---
+
+"                <div \n                  className=\"pt-8 flex flex-col gap-4\"\n                  style={{ width: '552px', minHeight: '260px', marginTop: '-48px' }}\n                >\n                  <div className=\"w-full h-px bg-gray-200 mb-4\" />\
+<truncated 983 bytes>
+
+---NEXT---
+
+"                  <p className=\"font-outfit font-bold text-[#4E4633] text-[18px] leading-[26px] mb-4\">\n                    At BalaMaya Meditation Academy, we combine:\n                  </p>\n"
+
+---NEXT---
+
+"            {service.slug !== 'business-energy-alignment' && (\n              <Image\n                src={service.imageSrc}\n                alt=\"Community Video\"\n                fill\n                className=\"object-cover transition-transform dura
+<truncated 674 bytes>
+
+---NEXT---
+
+"          {service.slug === 'business-energy-alignment' ? (\n            <div \n              className=\"grid grid-cols-3\"\n              style={{ width: '1054px', height: '700.75px', gap: '32px' }}\n            >\n              {[1, 2, 3].map((i) => (\
+<truncated 2306 bytes>
+
+---NEXT---
+
+"        <div \n          className=\"flex flex-col mx-auto items-center\"\n          style={{ \n            width: '1054px', \n            maxWidth: '1275px', \n            height: service.slug === 'business-energy-alignment' ? '804.75px' : '608px', \n   
+<truncated 49 bytes>
+
+---NEXT---
+
+"        <div \n          className={service.slug === 'business-energy-alignment' ? \"flex flex-col gap-[64px] items-center w-full\" : \"grid grid-cols-1 lg:grid-cols-2 gap-[48px] items-start w-full\"}\n        >\n"
+
+---NEXT---
+
+"            {service.slug !== 'one-on-one-session' && service.slug !== 'business-energy-alignment' && service.slug !== 'meditation-for-pregnant-women' && (\n"
+
+---NEXT---
+
+"                    <span \n                      className=\"font-outfit font-bold uppercase\"\n                      style={{ width: '133px', height: '16px', fontSize: '12px', lineHeight: '16px', letterSpacing: '2.4px', color: '#4E463399' }}\n          
+<truncated 491 bytes>
+
+---NEXT---
+
+"                <div \n                  className=\"p-0 flex flex-col\"\n                  style={{ \n                    width: '552px', \n                    minHeight: '286px', \n                    maxWidth: '576px', \n                    opacity: 1,
+<truncated 84 bytes>
+
+---NEXT---
+
+"                <div \n                  className=\"p-0 flex flex-col\"\n                  style={{ \n                    width: '552px', \n                    minHeight: '286px', \n                    maxWidth: '576px', \n                    opacity: 1,
+<truncated 2017 bytes>
+
+---NEXT---
+
+"            {service.slug !== 'business-energy-alignment' && service.slug !== 'meditation-for-pregnant-women' && (\n"
+
+---NEXT---
+
+"            {/* Price and Booking Section */}\n            {service.slug !== 'business-energy-alignment' && service.slug !== 'meditation-for-pregnant-women' && (\n              <div \n"
+
+---NEXT---
+
+"            {service.slug !== 'business-energy-alignment' && service.slug !== 'meditation-for-pregnant-women' && (\n              <div className=\"flex items-center\" style={{ width: 'auto', minHeight: '60px', gap: '24px' }}>\n"
+
+---NEXT---
+
+"            {service.slug !== 'auto-writing-program' && service.slug !== 'business-energy-alignment' && service.slug !== 'meditation-for-pregnant-women' && (\n"
+
+---NEXT---
+
+"            {service.slug !== 'one-on-one-session' && service.slug !== 'business-energy-alignment' && (\n              <div className=\"flex flex-col gap-4 mb-10\">\n                {service.slug === 'meditation-for-pregnant-women' ? (\n                  
+<truncated 1381 bytes>
+
+---NEXT---
+
+"                {service.slug === 'business-energy-alignment' && (\n                  <div \n                    className=\"p-0 flex flex-col\"\n                    style={{ \n                      width: '552px', \n                      minHeight: '286p
+<truncated 1526 bytes>
+
+---NEXT---
+
+"            ) : (service.slug === 'business-energy-alignment' || service.slug === 'meditation-for-pregnant-women') ? (\n              <div className=\"flex flex-col gap-8 font-outfit\">\n                {service.slug === 'business-energy-alignment' && (\n
+<truncated 1 bytes>
+
+---NEXT---
+
+"            {(service.slug === 'business-energy-alignment' || service.slug === 'meditation-for-pregnant-women') && (\n              <div className=\"flex flex-col gap-8 font-outfit mb-10\">\n                {/* Description Block */}\n                <div 
+<truncated 2190 bytes>
+
+---NEXT---
+
+"            {/* Price and Booking Section */}\n            {service.slug !== 'business-energy-alignment' && service.slug !== 'meditation-for-pregnant-women' && (\n              <div \n                className=\"flex flex-col\"\n                style={{ w
+<truncated 6611 bytes>
+
+---NEXT---
+
+"            ) : (service.slug === 'business-energy-alignment' || service.slug === 'meditation-for-pregnant-women') ? (\n"
+
+---NEXT---
+
+"              <div className=\"flex flex-col gap-4 mb-10 mt-4\">\n"
+
+---NEXT---
+
+"                      <p className=\"font-outfit font-normal text-[#4E4633] text-[18px] leading-[26px]\">\n"
+
+---NEXT---
+
+"                      <p className=\"font-outfit font-normal text-[#4E4633] text-[18px] leading-[26px]\">\n                        3 Days Special Program for Mother & Baby Well-being\n                      </p>\n"
+
+---NEXT---
+
+"                </div>\n                \n                {/* Price and Booking Section (Standardized) */}\n                <div className=\"flex flex-col gap-8 mb-4\">\n                  <div \n                    className=\"flex flex-col\"\n           
+<truncated 2122 bytes>
+
+---NEXT---
+
+"                  )}\n                </div>\n\n                {/* Price and Booking Section (Standardized) */}\n                <div className=\"flex flex-col gap-8 mb-4\">\n                  <div \n                    className=\"flex flex-col\"\n     
+<truncated 2219 bytes>
+
+---NEXT---
+
+"                </div>\n\n                {/* Why Meditation During Pregnancy Section */}\n                {service.slug === 'meditation-for-pregnant-women' && (\n                  <div \n                    className=\"flex flex-col\"\n                  
+<truncated 1466 bytes>
+
+---NEXT---
+
+"                      <span \n                        className=\"font-outfit font-bold uppercase text-[#4E4633] opacity-60\"\n                        style={{ width: '139px', height: '16px', fontSize: '12px', lineHeight: '16px', letterSpacing: '0.6px' }}
+<truncated 96 bytes>
+
+---NEXT---
+
+"                        <li key={i} className=\"flex items-start gap-3 font-outfit font-bold text-[#4E4633] text-[18px] leading-[26px]\">\n                          <span className=\"font-bold\">{i + 1}.</span>\n"
+
+---NEXT---
+
+"                </div>\n\n                {/* Course Duration Section */}\n                {service.slug === 'meditation-for-pregnant-women' && (\n                  <div \n                    className=\"flex flex-col\"\n                    style={{ width
+<truncated 2644 bytes>
+
+---NEXT---
+
+"                  </div>\n                )}\n\n                {/* Course Duration Section */}\n                {service.slug === 'meditation-for-pregnant-women' && (\n                  <div \n                    className=\"flex flex-col\"\n            
+<truncated 2666 bytes>
+
+---NEXT---
+
+"                  </div>\n                )}\n\n                {/* Key Benefits Section */}\n                {service.slug === 'meditation-for-pregnant-women' && (\n                  <div \n                    className=\"flex flex-col\"\n               
+<truncated 1278 bytes>
+
+---NEXT---
+
+"                {/* Global Standardized Sections (BEA Only) */}\n                {service.slug === 'business-energy-alignment' && (\n                  <>\n                    <div \n                      className=\"p-0 flex flex-col justify-center\"\n   
+<truncated 12049 bytes>
+
+---NEXT---
+
+"                  </div>\n                )}\n\n                {/* Who Can Join Section */}\n                {service.slug === 'meditation-for-pregnant-women' && (\n                  <div \n                    className=\"flex flex-col\"\n               
+<truncated 1199 bytes>
+
+---NEXT---
+
+"                    </ul>\n                  </div>\n                )}\n\n                {/* Who Can Join Section */}\n                {service.slug === 'meditation-for-pregnant-women' && (\n                  <div \n                    className=\"flex 
+<truncated 1270 bytes>
+
+---NEXT---
+
+"                        <li key={i} className=\"flex items-start gap-3 font-outfit font-bold text-[#4E4633] text-[18px] leading-[26px]\">\n                          <span className=\"font-bold\">{i + 1}.</span>\n"
+
+---NEXT---
+
+"                  </div>\n                )}\n\n                {/* Safety Note Section */}\n                {service.slug === 'meditation-for-pregnant-women' && (\n                  <div \n                    className=\"flex flex-col\"\n                
+<truncated 866 bytes>
+
+---NEXT---
+
+"                    </ul>\n                  </div>\n                )}\n\n                {/* Safety Note Section */}\n                {service.slug === 'meditation-for-pregnant-women' && (\n                  <div \n                    className=\"flex f
+<truncated 1028 bytes>
+
+---NEXT---
+
+"                  </div>\n                )}\n\n                {/* Connect With Us Section (Pregnancy Specific) */}\n                {service.slug === 'meditation-for-pregnant-women' && (\n                  <div \n                    className=\"pt-8 fle
+<truncated 1292 bytes>
+
+---NEXT---
+
+"                    </p>\n                  </div>\n                )}\n\n                {/* Connect With Us Section (Pregnancy Specific) */}\n                {service.slug === 'meditation-for-pregnant-women' && (\n                  <div \n              
+<truncated 1453 bytes>
